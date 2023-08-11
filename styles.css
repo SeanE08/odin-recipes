@@ -14,7 +14,7 @@ div {
     color: white;
 }
 
-.Ingredients {
+.Ingredients, .main-div {
     background-color: #999900;
     border-style: dotted;
     border-color: #808000;
