@@ -1,0 +1,22 @@
+div {
+    width: auto;
+}
+.title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+    
+}
+
+.Description, .Directions {
+    background-color: teal;
+    border-style: groove;
+    border-color: #109090;
+    color: white;
+}
+
+.Ingredients {
+    background-color: #999900;
+    border-style: dotted;
+    border-color: #808000;
+    color: maroon;
+}
